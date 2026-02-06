@@ -14,4 +14,7 @@
 
 J'ai fait ma visite à cette exposition le 30 janvier 2026.
 
-L'oeuvre que j'ai choisi est celui de l'artiste Dayna McLeod: [*Queer, Widow, Cancer*](https://daynarama.com/queer-widow-cancer/)
+L'oeuvre que j'ai choisi est celui de l'artiste Dayna McLeod: [*Queer, Widow, Cancer*](https://daynarama.com/queer-widow-cancer/) [^1]
+
+
+[^1]: Lien vers la page de Dayna McLeod et la présentation de l'oeuvre, consulté le 6 février 2026.
