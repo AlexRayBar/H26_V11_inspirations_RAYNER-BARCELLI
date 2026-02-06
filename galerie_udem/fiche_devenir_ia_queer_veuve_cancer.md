@@ -7,3 +7,10 @@
 <img src="media/photos/20260130_lieu_de_exposition.jpg" alt="Photo devant un gros bâtiment du lieu de l'exposition" width="400"> 
 
 >Lieu de l'exposition, *Galerie de l'Université de Montréal*, Montréal, Janvier 2026, Photo ARB.
+
+---
+
+*Devenirs partagés. Pratiques de l'IA* est une exposition temporair intérieure qui va du 28 novembre 2025 jusqu'au 28 février 2026.
+
+J'ai fait ma visite à cette exposition le 30 janvier 2026.
+
