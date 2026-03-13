@@ -108,9 +108,17 @@ Il est nécessaire d'avoir un grand bâtiment, avec un espace très ouvert pour 
 
 Premièrement, je rentre il y a un mur avec un écran qui explique les consignes.
 
-<img src="media/photos/salle_d'exposition.jpg" alt="logo de l'exposition Notre-Dame" width="300">
+<img src="media/photos/experience_1.jpg" alt="logo de l'exposition Notre-Dame" width="300">
 
-> photo de la salle d'exposition, Montréal, photo par ARB, 2026
+> photo de l'expérience vécu, Montréal, photo par ARB, 2026
+
+Ensuite, je passe au comptoir pour mettre mon casque de VR.
+
+<img src="media/photos/casque_vr.jpg" alt="logo de l'exposition Notre-Dame" width="400">
+
+> photo des composantes, Montréal, photo par ARB, 2026
+
+Après ça je rentre dans le monde VR 
 
 
 
