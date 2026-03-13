@@ -118,7 +118,27 @@ Ensuite, je passe au comptoir pour mettre mon casque de VR.
 
 > photo des composantes, Montréal, photo par ARB, 2026
 
-Après ça je rentre dans le monde VR 
+Après ça je rentre dans le monde VR.
+
+<img src="media/photos/experience_2.jpeg" alt="logo de l'exposition Notre-Dame" width="400">
+
+> photo dans l'oeuvre, photo par Éternelle Notre-Dame, 2026
+
+L'expérience dure un environ de 45 minutes.
+
+## Appréciation ##
+
+J'aimais beaucoup la qualité du VR et comment il pouvait vraiment nous faire transporter dans l'ancien temps. Aussi, que l'expérience se sentait vraiment réel, même qu'il y a eu des moments de vertiges.
+
+<br><br>
+
+### Sources ###
+
+- https://eternelle-notre-dame.ca/
+- https://www.mtl.org/fr/quoi-faire/festivals-et-evenements/eternelle-notre-dame
+- https://casques-vr.com/eternelle-notre-dame-de-paris-une-visite-de-40-minutes-en-realite-virtuelle-20290/
+- https://jobetudiant.net/teste-pour-vous-lexperience-notre-dame-immersive/
+- https://www.themayor.eu/en/a/gallery/discover-notre-dame-cathedral-with-immersive-vr-experience-9751?item=2
 
 
 
