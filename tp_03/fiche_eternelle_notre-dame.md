@@ -10,7 +10,7 @@
 # Lieu d'exposition #
 <img src="media/photos/batiment_exposition.jpg" alt="logo de l'exposition Notre-Dame" width="700">
 
-> Lieu de l'exposition de l'oeuvre, Montréal, photo par Alexander Rayner-Barelli, 2026
+> Lieu de l'exposition de l'oeuvre, Montréal, photo par ARB, 2026
 
 
 <br>
@@ -58,6 +58,14 @@ Le projet à été réalisé en 2022.
 ## Type d'installation ##
 
 Le type d'installation est immersive en réalité virtuelle.
+
+<img src="media/photos/photo_casques_vr.jpg" alt="logo de l'exposition Notre-Dame" width="500">
+
+> Photo des casques utilisés pour la réalité virtuelle, photo par Emmanuela Registre, 2022
+
+## Fonction du dispositif multimédia ##
+
+Les visiteurs sont équipés d'un casque VR immersif qui reproduit l'intérieur, l'extérieur et les abords de Notre-Dame de Paris en modèle numérique. le dispositif comprend également un grand espace sécurisé où chaque mouvement du participant est traduit dans l'environnement virtuel, permettant une exploration libre et interactive de la cathédrale. De plus, l'expérience peut accueuillir plusieurs visiteurs en même temps, chaque participant voyant les autres sous forme d'avatar et pouvant interagir avec eux dans l'espace virtuel.
 
 
 
