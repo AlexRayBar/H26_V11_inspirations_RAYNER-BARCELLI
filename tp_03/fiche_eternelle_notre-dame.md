@@ -67,5 +67,11 @@ Le type d'installation est immersive en réalité virtuelle.
 
 Les visiteurs sont équipés d'un casque VR immersif qui reproduit l'intérieur, l'extérieur et les abords de Notre-Dame de Paris en modèle numérique. le dispositif comprend également un grand espace sécurisé où chaque mouvement du participant est traduit dans l'environnement virtuel, permettant une exploration libre et interactive de la cathédrale. De plus, l'expérience peut accueuillir plusieurs visiteurs en même temps, chaque participant voyant les autres sous forme d'avatar et pouvant interagir avec eux dans l'espace virtuel.
 
+<br>
+
+## Mise en espace ##
+
+<img src="media/photos/croquis_expo.jpg" alt="logo de l'exposition Notre-Dame" width="300">
+
 
 
