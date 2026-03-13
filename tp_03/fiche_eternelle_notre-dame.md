@@ -17,6 +17,8 @@
 
 # Type d'exposition #
 
+Temporaire : du 29 janvier au 26 septembre 2026
+
 <br>
 
 # Date de ma visite #
@@ -71,7 +73,28 @@ Les visiteurs sont équipés d'un casque VR immersif qui reproduit l'intérieur,
 
 ## Mise en espace ##
 
-<img src="media/photos/croquis_expo.jpg" alt="logo de l'exposition Notre-Dame" width="300">
+<img src="media/photos/croquis_oeuvre.jpg" alt="logo de l'exposition Notre-Dame" width="700">
+
+<br>
+
+## Composantes et techniques ##
+
+- Casque de réalité virtuelle
+- Récit de 45 minutes
+- Technologie de pointe
+
+
+<br>
+
+## Élément nécessaires ##
+
+
+
+Il est nécessaire d'avoir un grand bâtiment, avec un espace très ouvert pour pouvoir se promener.
+
+<br>
+
+## Expérience vécue ##
 
 
 
