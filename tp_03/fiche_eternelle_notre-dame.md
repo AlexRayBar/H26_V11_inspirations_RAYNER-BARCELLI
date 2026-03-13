@@ -17,13 +17,35 @@
 
 # Type d'exposition #
 
-
+<br>
 
 # Date de ma visite #
 
 J'ai fait ma visite à l'exposition lundi le 9 mars 2026
 
+<br>
 
 # Éternelle Notre-Dame #
+
+<img src="media/photos/vue_ensemble_oeuvre.jpg" alt="logo de l'exposition Notre-Dame" width="700">
+
+> Photo de la vue d'ensemble de l'oeuvre, Arsenal art contemporain, photo par Casque Vr, 2022
+
+<br>
+
+## Nom de la firme ##
+
+La firme qui a réalisé ce projet se nomme Excurio qui est un studio français.
+
+<br>
+
+## Année de réalisation ##
+
+Le projet à été réalisé en 2022.
+
+<br>
+
+## Description de l'oeuvre ##
+
 
 
