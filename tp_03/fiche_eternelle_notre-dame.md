@@ -75,9 +75,16 @@ Les visiteurs sont équipés d'un casque VR immersif qui reproduit l'intérieur,
 
 <img src="media/photos/croquis_oeuvre.jpg" alt="logo de l'exposition Notre-Dame" width="700">
 
+> photo du croquis de l'oeuvre, Montréal, photo par ARB, 2026
+
 <br>
 
 ## Composantes et techniques ##
+
+<img src="media/photos/casque_vr.jpg" alt="logo de l'exposition Notre-Dame" width="400">
+
+> photo des composantes, Montréal, photo par ARB, 2026
+
 
 - Casque de réalité virtuelle
 - Récit de 45 minutes
@@ -88,6 +95,9 @@ Les visiteurs sont équipés d'un casque VR immersif qui reproduit l'intérieur,
 
 ## Élément nécessaires ##
 
+<img src="media/photos/salle_d'exposition.jpg" alt="logo de l'exposition Notre-Dame" width="300">
+
+> photo de la salle d'exposition, Montréal, photo par ARB, 2026
 
 
 Il est nécessaire d'avoir un grand bâtiment, avec un espace très ouvert pour pouvoir se promener.
@@ -95,6 +105,13 @@ Il est nécessaire d'avoir un grand bâtiment, avec un espace très ouvert pour 
 <br>
 
 ## Expérience vécue ##
+
+Premièrement, je rentre il y a un mur avec un écran qui explique les consignes.
+
+<img src="media/photos/salle_d'exposition.jpg" alt="logo de l'exposition Notre-Dame" width="300">
+
+> photo de la salle d'exposition, Montréal, photo par ARB, 2026
+
 
 
 
