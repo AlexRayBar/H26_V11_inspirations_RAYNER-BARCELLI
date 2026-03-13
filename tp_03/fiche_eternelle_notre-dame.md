@@ -29,7 +29,7 @@ J'ai fait ma visite à l'exposition lundi le 9 mars 2026
 
 <img src="media/photos/vue_ensemble_oeuvre.jpg" alt="logo de l'exposition Notre-Dame" width="700">
 
-> Photo de la vue d'ensemble de l'oeuvre, Arsenal art contemporain, photo par Casque Vr, 2022
+> Photo de la vue d'ensemble de l'oeuvre, France, photo par (https://casques-vr.com/eternelle-notre-dame-de-paris-une-visite-de-40-minutes-en-realite-virtuelle-20290/), 2022
 
 <br>
 
@@ -46,6 +46,18 @@ Le projet à été réalisé en 2022.
 <br>
 
 ## Description de l'oeuvre ##
+
+<img src="media/photos/cartel_oeuvre.jpg" alt="logo de l'exposition Notre-Dame" width="300">
+
+> photo du cartel de l'oeuvre, Montréal, photo par ARB, 2026
+
+<br>
+
+Éternelle Notre-Dame est une expérience immersive en réalité virtuelle qui plonge les visiteurs dans l'histoire et la restauration de la cathédrale Notre-Dame de Paris.
+
+## Type d'installation ##
+
+Le type d'installation est immersive en réalité virtuelle.
 
 
 
