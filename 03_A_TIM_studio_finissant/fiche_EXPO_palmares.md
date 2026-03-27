@@ -17,6 +17,8 @@
 
 ### Terminal ###
 
+<img src="./medias/logo_projets/logo_terminal.jpg" width="500">
+
 - Émeryk Bélisle
 - Elie Daher
 - Ting Yung Lu Terry
@@ -26,6 +28,8 @@
 <br>
 
 ### Mission Décollage ###
+
+<img src="./medias/logo_projets/logo_mission.jpg" width="500">
 
 - Ahmed Kaissoumi
 - Radhouane Kordan
@@ -37,6 +41,8 @@
 
 ### Symbiose ###
 
+<img src="./medias/logo_projets/symbiose.jpg" width="500">
+
 - Yannick Chamberland
 - Benjamin Ferland
 - Ryan Dufault
@@ -45,6 +51,8 @@
 <br>
 
 ### Arbre en Face ###
+
+<img src="./medias/logo_projets/arbre_en_face.jpg" width="500">
 
 - Alexandre Gendron
 - Mikael Arseneau
@@ -56,6 +64,8 @@
 
 ### Quand les yeux se croisent ###
 
+<img src="./medias/logo_projets/quand_les_yeux.jpg" width="500">
+
 - Edelwyn Ledru
 - Félix Lavoie
 - Jade Hébert
@@ -65,6 +75,9 @@
 <br>
 
 ### Océan Rouge ###
+
+<img src="./medias/logo_projets/ocean_rouge.jpg" width="500">
+
 - Amira Tounekti
 - Kristy Moussally
 
