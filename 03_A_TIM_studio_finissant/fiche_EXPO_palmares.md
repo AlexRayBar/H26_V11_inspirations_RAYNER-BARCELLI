@@ -11,6 +11,8 @@
 
 # Réseau Vivant #
 
+<img src="./medias/logo_projets/reseau_vivant.jpg" width="500">
+
 
 
 ## Créateurs et Créatrices ##
@@ -62,6 +64,7 @@
 
 <br>
 
+
 ### Quand les yeux se croisent ###
 
 <img src="./medias/logo_projets/quand_les_yeux.jpg" width="500">
@@ -80,5 +83,7 @@
 
 - Amira Tounekti
 - Kristy Moussally
+
+
 
 
