@@ -1,2 +1,0 @@
-# Éternelle Notre-Dame #
-
