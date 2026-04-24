@@ -13,6 +13,8 @@
 
 <img src="./medias/logo_projets/reseau_vivant.jpg" width="500">
 
+> logo par Matis Ghariani, finissant du programme T.I.M.
+
 
 
 ## Créateurs et Créatrices ##
@@ -83,6 +85,29 @@
 
 - Amira Tounekti
 - Kristy Moussally
+
+<br><br>
+
+
+## Installation finale ##
+
+<br><br>
+
+## Schéma de l'instalation ##
+
+<br><br>
+## expérimentation des installations ##
+
+### O.I.G.N.O.N. ### 
+
+J'ai eu beaucoup de plaisir en jouant à ce jeu. Dès que je suis rentré dans l'exposition j'ai vu ce installation et j'ai voulu joué le plus vite possible. Comment l'installation était placé avec le gros cyclo projeté par l'interface du jeu et avec la boite de contrôle tout cela donne un envie de jouer à tous les personnes qui rentrent dans l'exposition.
+
+
+<br><br>
+
+## Programmes incontournables ##
+
+
 
 
 
