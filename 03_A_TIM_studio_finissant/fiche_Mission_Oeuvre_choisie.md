@@ -18,7 +18,7 @@ C'est une exposition temporaire crée par les finissants encandrant leur projet 
 
 # [O.I.G.N.O.N. (mission décollage)](https://o-i-g-n-o-n.github.io/Mission-decollage/#/) #
 <img src="./medias/logo_projets/logo_mission.jpg" width="700">
-<img src="./medias/photos_projets/vue_ensemble.jpg" width="700">
+
 
 ### Réalisé par : ###
 - Ahmed Kaissoumi 
