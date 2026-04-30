@@ -39,7 +39,7 @@ C'est une exposition temporaire crée par les finissants encandrant leur projet 
 
 ### Description de l'oeuvre ###
 
-<img src="./medias/photos_projets/cartel_oignon.jpeg" width="700">
+<img src="./medias/photos_projets/cartel_oignon.jpeg" width="500">
 
 
 ### Type d'installation ###
@@ -49,5 +49,9 @@ C'est une exposition temporaire crée par les finissants encandrant leur projet 
 > O.I.G.N.O.N., exposition de Réseau vivant, 2026, photo par: ARB
 
 C'est une installation interactive ou deux personne doivent prendre controle d'un vaisseau spatiale et pouvoir essayer d'arriver sur mars sans se faire détruire par les météorites.
+
+### Mise en espace ###
+
+<img src="./medias/photos_projets/croquis_oignon.jpg" width="600">
 
 
