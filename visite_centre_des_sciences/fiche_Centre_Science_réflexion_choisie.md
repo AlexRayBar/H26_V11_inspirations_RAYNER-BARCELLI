@@ -19,3 +19,7 @@ c'est une exposition permanente
 1er avril 2026
 
 # Jeux de réflexion #
+
+<img src="./Medias/oeuvre_reflexion.jpg" width="500">
+
+> photo du dispositif du jeu de réflexion, Photo par: Benoit Rousseau, [photo](https://courrierlaval.com/une-relache-animee-au-vieux-port/)
