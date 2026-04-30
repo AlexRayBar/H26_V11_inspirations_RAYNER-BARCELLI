@@ -13,7 +13,6 @@
 
 <img src="./medias/logo_projets/reseau_vivant.jpg" width="500">
 
-> logo par Matis Ghariani, finissant du programme T.I.M.
 
 
 
@@ -95,6 +94,8 @@
 
 ## Schéma de l'instalation ##
 
+<img src="./medias/photos_projets/concept_reseau_vivant.jpg" width="900">
+
 <br><br>
 ## expérimentation des installations ##
 
@@ -108,7 +109,19 @@ Quand je suis rentré dans l'exposition je ne savais pas trop à quoi m'attendre
 
 ### Symbiose ###
 
-Cet installation est placé pratiquement à l'entré de l'exposition, donc c'est impossible de le manquer. 
+Cet installation est placé pratiquement à l'entré de l'exposition, donc c'est impossible de le manquer. J'ai eu un peu de plaisir avec cet installation, mais c'était un peu compliqué comprendre comment jouer et comment ça fonctionne. 
+
+### Arbre en face ###
+
+Cet installation je ne l'ai pas vraiment fait attention et je ne l'ai pas essayé, donc je ne pourrais pas vraiment décrire mon expérience avec.
+
+### Quand les yeux se croisent ###
+
+Cet installation était intéressant parce cétait vraiment cool de voir nos yeux se transformer, avec de l'IA, en des yeux d'animaux. C'était intéressant, mais pas vraiment un de mes préférés.
+
+### Océan rouge ###
+
+Cet installation était amusant quelque essai, mais cétait vraiment long puis je me suis ennuyé après quelques minutes parce que je ne comprennais pas trop.
 
 
 
@@ -116,6 +129,8 @@ Cet installation est placé pratiquement à l'entré de l'exposition, donc c'est
 
 ## Programmes incontournables ##
 
+
+Je pense que 3 cours incontournables doivents êtres : Web, Illustration et Traitement audiovisuel.
 
 
 
