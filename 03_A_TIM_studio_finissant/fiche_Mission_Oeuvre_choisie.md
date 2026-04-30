@@ -17,7 +17,9 @@ C'est une exposition temporaire crée par les finissants encandrant leur projet 
 <br><br>
 
 # [O.I.G.N.O.N. (mission décollage)](https://o-i-g-n-o-n.github.io/Mission-decollage/#/) #
-<img src="./medias/logo_projets/logo_mission.jpg" width="700">
+<img src="./medias/photos_projets/vue_ensemble.jpeg" width="700">
+
+> O.I.G.N.O.N., exposition de Réseau vivant, 2026, photo par: ARB
 
 
 ### Réalisé par : ###
@@ -37,7 +39,15 @@ C'est une exposition temporaire crée par les finissants encandrant leur projet 
 
 ### Description de l'oeuvre ###
 
-Mission Décollage est une expérience coopérative pour 1 à 3 joueurs où tous se tiennent devant un panneau de contrôle rempli de boutons et d’interrupteurs afin de gérer les systèmes vitaux de la fusée, comme les propulseurs, le bouclier, la propulsion, le système de boost et d’autres mécanismes essentiels, dans une coordination parfaite, car rien ne peut fonctionner sans travail d’équipe. L’aventure commence lorsqu’un joueur appuie sur un bouton, lançant ainsi la première mission habitée vers une planète nouvellement découverte et potentiellement habitable, avec l’objectif d’y établir une présence humaine. Tout au long du voyage dans l’espace, les joueurs doivent esquiver les météorites, ajuster la trajectoire et maintenir la fusée opérationnelle pour atteindre leur destination et réussir l’atterrissage. Chaque décision compte : pour survivre et accomplir leur mission, ils devront communiquer efficacement, réagir rapidement et se faire confiance afin d’arriver sains et saufs et marquer l’histoire de l’exploration spatiale. 🚀
+<img src="./medias/photos_projets/cartel_oignon.jpeg" width="700">
 
-> tiré du site web de l'oeuvre : [O.I.G.N.O.N.](https://o-i-g-n-o-n.github.io/Mission-decollage/#/)
+
+### Type d'installation ###
+
+<img src="./medias/photos_projets/vue_ensemble.jpeg" width="700">
+
+> O.I.G.N.O.N., exposition de Réseau vivant, 2026, photo par: ARB
+
+C'est une installation interactive ou deux personne doivent prendre controle d'un vaisseau spatiale et pouvoir essayer d'arriver sur mars sans se faire détruire par les météorites.
+
 
