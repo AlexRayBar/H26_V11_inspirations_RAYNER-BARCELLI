@@ -1,7 +1,7 @@
 # Le spectacle immersif du garage J.-A. Bombardier #
 Compte-rendu de la conférence de Martin Boucher
 
-
+<img src="./medias/musee_ingeniosite_S_Francois.jpeg" width="600">
 
 ## Introduction ##
 La conférence donnée par Martin Boucher portait sur un projet visant à améliorer une exposition permanente au Musée de l’ingéniosité. Plus précisément, il a présenté le spectacle immersif installé dans le garage de J.-A. Bombardier, en expliquant à la fois ses objectifs et son fonctionnement.
