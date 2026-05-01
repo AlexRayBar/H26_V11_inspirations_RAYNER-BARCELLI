@@ -42,6 +42,10 @@ Lumière : jeux de réflexion est un dispositif interactif qui permet aux visite
 
 Interactive et immersive
 
+<img src="./Medias/vue_ensemble.jpeg" width="500">
+
+> Centre des sciences, 2026, Photo par : ARB
+
 ### Fonction du dispositif ###
 
 Support pédagogique et mise en contexte scientifique.
@@ -76,9 +80,9 @@ Techniques :
 
 Le visiteur doit se déplacer dans l’espace, observer sous différents angles et manipuler certains éléments selon le module.
 
-<img src="./Medias/ecran_gauche.jpg" width="500">
-<img src="./Medias/ecran_centre.jpg" width="500">
-<img src="./Medias/ecran_droit.jpg" width="500">
+<img src="./Medias/ecran_gauche.jpeg" width="300"> <img src="./Medias/ecran_centre.jpeg" width="300"> <img src="./Medias/ecran_droit.jpeg" width="300">
+
+> Centre des sciences, 2026, Photo par : ARB
 
 ### Ce qui m'a plu ###
 
