@@ -47,3 +47,39 @@ Interactive et immersive
 Support pédagogique et mise en contexte scientifique.
 
 ### Mise en espace ###
+
+<img src="./Medias/croquis_reflexion.jpg" width="500">
+
+### Composantes et techniques ###
+
+Composantes :
+- Miroirs (plans et parfois inclinés)
+- Sources lumineuses (LED, projecteurs)
+- Surfaces translucides ou réfléchissantes
+- Structures en bois ou métal
+- Écrans ou panneaux interactifs
+
+  <br>
+
+Techniques :
+- Optique (réflexion, réfraction)
+- Illusions visuelles
+- Interaction physique directe (pas forcément numérique)
+- Design interactif éducatif
+
+### Éléments nécessaires à la mise en exposition ###
+
+- Structures de support (socles, cadres)
+- Systèmes d’éclairage intégrés
+
+### Expérience vécue ###
+
+Le visiteur doit se déplacer dans l’espace, observer sous différents angles et manipuler certains éléments selon le module.
+
+<img src="./Medias/ecran_gauche.jpg" width="500">
+<img src="./Medias/ecran_centre.jpg" width="500">
+<img src="./Medias/ecran_droit.jpg" width="500">
+
+### Ce qui m'a plu ###
+
+J'aimais beaucoup l'effet drôle qui donnais en passant devant les miroire.
